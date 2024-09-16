@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00E0FF&width=435&lines=Kamusta!%F0%9F%91%8B+I'm+Jelynelle+Bastasa"/>
-    <h1 align="center">
+    <p1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00E0FF&width=435&lines=Softwaree+Engineer"/>
-    </h1>
+    </p1>
 </h1>
 
    
