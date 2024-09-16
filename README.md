@@ -7,13 +7,10 @@
 <p align="center">I love creating things into something useful 🚀 🚀</p>
 <p align="center">
 </p>
-
-
-<br/>
 <div align="center"> 
 ⚡ My Hobby** I love Playing Valorant <a href="https://emoji.gg/emoji/8262_Immortal_Valorant"><img src="https://cdn3.emoji.gg/emojis/8262_Immortal_Valorant.png" width="30px" height="30px" alt="Immortal_Valorant"></a>
-    
- </div> 
+</div> 
+<br/>
 <div align="center"> 
   <a href="mailto:jelynelle.bastasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
