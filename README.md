@@ -51,7 +51,6 @@ if (codeWorking){
                 codeQuality++;
             }
         }
-// - Vishwa Gaurav
 ```
 
 ### Thanks for Visiting my GitHub Profile!
