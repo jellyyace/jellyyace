@@ -12,13 +12,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I love Playing Valorant <a href="https://emoji.gg/emoji/8262_Immortal_Valorant"><img src="https://cdn3.emoji.gg/emojis/8262_Immortal_Valorant.png" width="64px" height="64px" alt="Immortal_Valorant"></a>**
 
  </div> 
 <div align="center"> 
