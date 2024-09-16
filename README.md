@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi 👋🏻, I'm Jelynelle Bastasa, I love creating things into something useful 🚀
-
+#Hi 👋🏻, I'm Jelynelle Bastasa, I love creating things into something useful 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jelynelle-bastasa-software-engineer) 
