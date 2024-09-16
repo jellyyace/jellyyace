@@ -12,6 +12,7 @@
 <br/>
 <div align="center"> 
 ⚡ My Hobby** I love Playing Valorant <a href="https://emoji.gg/emoji/8262_Immortal_Valorant"><img src="https://cdn3.emoji.gg/emojis/8262_Immortal_Valorant.png" width="30px" height="30px" alt="Immortal_Valorant"></a>
+    
  </div> 
 <div align="center"> 
   <a href="mailto:jelynelle.bastasa@gmail.com">
