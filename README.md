@@ -47,7 +47,7 @@ if (codeWorking){
         }
 ```
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visiting+my+profile!%F0%9F%98%8A" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D706&width=435&lines=Thank+you+for+visiting+my+profile!%F0%9F%98%8A"/>
 </h1>>
 
 
