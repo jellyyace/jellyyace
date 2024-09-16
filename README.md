@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋🏻, I'm Jelynelle Bastasa </br> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Jelynelle+Bastasa!;" />
 </h1>
 <p align="center">I love creating things into something useful 🚀 🚀</p>
 <p align="center">
