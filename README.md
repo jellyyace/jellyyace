@@ -56,6 +56,8 @@ if (codeWorking){
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jellyyace&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jellyace&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
