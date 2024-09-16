@@ -57,7 +57,7 @@ if (codeWorking){
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=jellyace&label=Profile%20Views&color=3&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=jellyyace&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
 
 
